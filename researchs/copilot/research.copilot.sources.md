@@ -1,1 +1,22 @@
-# Sources for copilot
+# Kaynakça (Seçme – bağlantılar)
+
+- OWASP Logging Cheat Sheet – https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html citeturn1search73
+- NIST SP 800‑92 – https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf citeturn1search49
+- ISO/IEC 27001 A.8.15 (yorum/rehber) – https://www.isms.online/iso-27001/annex-a-2022/how-to-implement-iso-27001-2022-annex-a-control-8-15-logging/ citeturn1search78
+- PCI SSC – Effective Daily Log Monitoring – https://www.pcisecuritystandards.org/documents/Effective-Daily-Log-Monitoring-Guidance.pdf citeturn1search50
+- HIPAA log saklama yorumu – https://www.schellman.com/blog/healthcare-compliance/hipaa-audit-log-retention-policy citeturn1search71
+- AWS CloudWatch Logs Data Protection – https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/mask-sensitive-log-data.html citeturn1search43
+- Terraform Data Protection Policy Doc – https://registry.terraform.io/providers/hashicorp/aws/latest/docs/data-sources/cloudwatch_log_data_protection_policy_document citeturn1search44
+- Google Cloud Sensitive Data Protection (DLP) – https://docs.cloud.google.com/sensitive-data-protection/docs/redacting-sensitive-data citeturn1search25
+- Datadog Sensitive Data Scanner – https://docs.datadoghq.com/security/sensitive_data_scanner/ citeturn1search19
+- Sentry Server‑Side Data Scrubbing – https://docs.sentry.io/security-legal-pii/scrubbing/server-side-scrubbing/ citeturn1search41
+- Splunk anonimleştirme – https://help.splunk.com/en/data-management/get-data-in/get-data-into-splunk-enterprise/10.2/configure-event-processing/anonymize-data citeturn1search13
+- Elastic ingest `gsub` – https://www.elastic.co/docs/reference/enrich-processor/gsub-processor citeturn1search31
+- OpenTelemetry Redaction/Attributes – https://betterstack.com/community/guides/observability/redacting-sensitive-data-opentelemetry/ citeturn1search104
+- Microsoft Presidio – https://microsoft.github.io/presidio/ citeturn1search85
+- detect‑secrets – https://pypi.org/project/detect-secrets/ citeturn1search110
+- TruffleHog – https://github.com/trufflesecurity/trufflehog citeturn1search96
+- Logback ile maskeleme – https://www.baeldung.com/logback-mask-sensitive-data citeturn1search90
+- Log4j2 masking policy – https://github.com/mariocairone/log4j2-masking-policy citeturn1search116
+- Fluent Bit filtreleri – https://docs.fluentbit.io/manual/data-pipeline/filters citeturn1search7
+- Açık repo: Log‑Sensitivity‑Analyzer – https://github.com/yusufiyilmaz/Log-Sensitivity-Analyzer citeturn1search2
