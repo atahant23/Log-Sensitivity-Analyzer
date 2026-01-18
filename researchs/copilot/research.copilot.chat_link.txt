@@ -1,1 +1,50 @@
-https://m365.cloud.microsoft/e56afa3f-dd2b-4de0-b7f4-7a5c182b0005
+**İstem [Log Sensitivity Analyzer hakkında detaylı bir... | Burada deneyin: Copilot Chat](https://m365.cloud.microsoft/chat/entity1-d870f6cd-4aa5-4d42-9626-ab690c041429/eyJpZCI6IlZYTmxjbFl4ZkdoMGRIQnpPaTh2YzNWaWMzUnlZWFJsTFdsdWRDNXZabVpwWTJVdVkyOXRMM3hQU1VRNk1UZ3lZekk0WkRBdFlqZGhNaTAwTmpnMUxXSmtOMlF0TmpCbE1ERXhPVFZoT1RjNGZHSmpNemRoTVdKakxUaGtNVEV0TkdZMk1pMDRZV1kyTFdVMU9UVXlabUV5T0dZMVpYd3lNREkyTFRBeExURTRWREl4T2pBNE9qRTRMalUxTVRVME5sbyUzZCIsInNjZW5hcmlvIjoic2hhcmVMaW5rVmlhUmljaENvcHkiLCJwcm9wZXJ0aWVzIjp7InByb21wdFNvdXJjZSI6InVzZXIiLCJjbGlja1RpbWVzdGFtcCI6IjIwMjYtMDEtMThUMjE6MDg6MTcuNTQ3WiJ9LCJjaGF0VHlwZSI6IndlYiIsInZlcnNpb24iOjEuMX0)**
+Log Sensitivity Analyzer hakkında detaylı bir teknik araştırma yapmanı istiyorum;
+
+1. Bu teknolojinin/konunun temel çalışma prensipleri nelerdir?
+2. En iyi uygulama yöntemleri (Best Practices) ve endüstri standartları nelerdir?
+3. Benzer açık kaynak projeler ve rakipler hangileridir?
+4. Kritik yapılandırma dosyaları ve parametreleri nelerdir
+5. Güvenlik açısından dikkat edilmesi gereken kritik noktalar nelerdir?
+
+Lütfen cevaplarını kaynakları ile birlikte detaylı olarak görseldeki gibi Markdown raporu olarak sun.
+**Yanıt**
+Aşağıdaki kapsamlı teknik araştırmayı **Markdown rapor** formatında hazırladım ve görseldeki gibi 4 dosya olarak çıktıya aldım. İstersen indirip doğrudan paylaşabilirsin:
+
+*   **Araştırma Raporu:** [research.copilot.result.md](blob:https://m365.cloud.microsoft/b9ab0bd6-ff6b-42eb-b2c5-dc053646f501)
+*   **Kullanılan İstem (prompt):** [research.copilot.prompt.md](blob:https://m365.cloud.microsoft/ede17874-edda-4bab-9e4b-99500c9596bf)
+*   **Kaynakça:** [research.copilot.sources.md](blob:https://m365.cloud.microsoft/3659e70f-4fed-49ce-a590-62a8a5b86fff)
+*   **Sohbet Bağlantısı Notu:** [research.copilot.chat\_link.txt](blob:https://m365.cloud.microsoft/3ea29c96-b714-4073-8f2c-349ad61de5c7)
+
+> Dosyaların içinde; **temel prensipler**, **best practice/standartlar**, **açık kaynak projeler & rakipler**, **kritik konfigürasyon dosyaları/parametreleri**, **güvenlikte kritik noktalar** başlıkları yer alıyor; ayrıca **OTel, Splunk, Elastic, AWS, Datadog** için örnek konfigürasyonlar da var. Tüm maddeler, talep ettiğin gibi kaynaklarıyla desteklendi.
+
+***
+
+## Kısa Özet (2 dk’da büyük resim)
+
+*   **Neden “Log Sensitivity Analyzer”?**  
+    Log’larda PII/PHI, PCI ve sır niteliğindeki bilgilerin *otomatik tespiti ve maskelemesi* için; regex/örüntü + ML/NLP (NER) + entropi tabanlı yaklaşımlar bir arada kullanılır. Böylece regülasyonlar (GDPR/HIPAA/PCI) ve güvenlik gereksinimleri karşılanır. [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d12-1e6756d8871d235d850bbea7f636d0ba/views/original/research.copilot.result.md), [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d21-06ac91b61913774c14b91bb8bc1d0b86/views/original/research.copilot.prompt.md)
+
+*   **Çalışma şekli (pipeline):**  
+    Kaynakta/agent’te (Logback/Log4j2), toplayıcıda (**OpenTelemetry Collector** `redaction`/`attributes`/`transform`), SIEM/arka uçta (**Splunk** `props.conf`/`transforms.conf`; **Elastic** ingest `gsub`), ya da bulutta (**AWS CloudWatch Logs Data Protection**, **Google Cloud Sensitive Data Protection/DLP**) maskeleme yapılabilir. [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d17-404b469f5cbb31ca72abc6c13ed46256/views/original/research.copilot.sources.md), [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d4-82d5ec974d5c71892fbdfb8febde4c61/views/original/research.copilot.chat_link.txt), [\[cheatsheet....owasp.org\]](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html), [\[nvlpubs.nist.gov\]](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf), [\[opentelemetry.io\]](https://opentelemetry.io/docs/languages/dotnet/logs/redaction/), [\[betterstack.com\]](https://betterstack.com/community/guides/observability/redacting-sensitive-data-opentelemetry/)
+
+*   **Standartlar & rehberler:**  
+    OWASP Logging Cheat Sheet (hassas alanları asla loglama, yapılandırılmış log), NIST SP 800-92 (merkezî toplama, bütünlük/erişim), ISO/IEC 27001:2022 A.8.15 (logların korunması/denetlenmesi), PCI DSS Req.10 (günlükleme/izleme), HIPAA (ePHI denetim kontrolleri ve 6 yıl saklamaya yönelik dokümantasyon beklentisi). [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d12-1e6756d8871d235d850bbea7f636d0ba/views/original/research.copilot.result.md), [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d21-06ac91b61913774c14b91bb8bc1d0b86/views/original/research.copilot.prompt.md), [\[help.splunk.com\]](https://help.splunk.com/en/data-management/get-data-in/get-data-into-splunk-enterprise/10.2/configure-event-processing/anonymize-data), [\[elastic.co\]](https://www.elastic.co/docs/reference/enrich-processor/gsub-processor), [\[docs.aws.amazon.com\]](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/mask-sensitive-log-data.html), [\[docs.cloud...google.com\]](https://docs.cloud.google.com/sensitive-data-protection/docs/redacting-sensitive-data)
+
+*   **En iyi uygulamalar:**  
+    *Data minimization* (yalnızca gerekli veriyi logla), “allow‑list” yaklaşımı (yalnızca izinli anahtarları geçir), RBAC ile **unmask** yetkisini sınırlandır (AWS `logs:Unmask`; Datadog `data_scanner_unmask`), tutarlılık için yapılandırılmış log kullan. [\[isms.online\]](https://www.isms.online/iso-27001/annex-a-2022/how-to-implement-iso-27001-2022-annex-a-control-8-15-logging/), [\[cyberzoni.com\]](https://cyberzoni.com/standards/iso-27001/control-8-15/), [\[opentelemetry.io\]](https://opentelemetry.io/docs/languages/dotnet/logs/redaction/), [\[pcisecurit...ndards.org\]](https://www.pcisecuritystandards.org/documents/Effective-Daily-Log-Monitoring-Guidance.pdf)
+
+*   **Açık kaynak & rakipler (seçme):**  
+    **Microsoft Presidio** (PII tespiti/anonymization), **detect‑secrets** (pre‑commit/CI secret tarama), **TruffleHog** (800+ dedektör ve doğrulama), **OpenTelemetry Collector** (redaction/attributes/transform), **Elastic ingest** (gsub). Ticari: **AWS CloudWatch Data Protection**, **Google Cloud DLP**, **Datadog Sensitive Data Scanner**, **Sentry** server-side scrubbing, **Splunk** index‑time maskeleme. [\[schellman.com\]](https://www.schellman.com/blog/healthcare-compliance/hipaa-audit-log-retention-policy), [\[ico.org.uk\]](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/data-protection-principles/a-guide-to-the-data-protection-principles/data-minimisation/), [\[dash0.com\]](https://www.dash0.com/guides/opentelemetry-redaction-processor), [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d4-82d5ec974d5c71892fbdfb8febde4c61/views/original/research.copilot.chat_link.txt), [\[nvlpubs.nist.gov\]](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf), [\[opentelemetry.io\]](https://opentelemetry.io/docs/languages/dotnet/logs/redaction/), [\[betterstack.com\]](https://betterstack.com/community/guides/observability/redacting-sensitive-data-opentelemetry/), [\[docs.datadoghq.com\]](https://docs.datadoghq.com/logs/guide/manage-sensitive-logs-data-access/), [\[microsoft.github.io\]](https://microsoft.github.io/presidio/), [\[cheatsheet....owasp.org\]](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html)
+
+*   **Kritik konfigürasyonlar (örnekler raporda):**  
+    CloudWatch **Data Protection Policy** (managed/custom data identifiers + mask), OTel Collector YAML (redaction/attributes), Splunk `SEDCMD` ve regex `TRANSFORMS`, Elastic ingest `gsub`, Datadog **Scanning Groups/Rules** ve aksiyonlar (redact/partial/hash/mask). [\[opentelemetry.io\]](https://opentelemetry.io/docs/languages/dotnet/logs/redaction/), [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d4-82d5ec974d5c71892fbdfb8febde4c61/views/original/research.copilot.chat_link.txt), [\[cheatsheet....owasp.org\]](https://cheatsheetseries.owasp.org/cheatsheets/Logging_Cheat_Sheet.html), [\[nvlpubs.nist.gov\]](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-92.pdf), [\[pypi.org\]](https://pypi.org/project/detect-secrets/)
+
+*   **Güvenlikte dikkat edilmesi gerekenler:**  
+    *Yanlış negatif/pozitif* riski (ML/regex yanılabilir) → süreç kontrolleri; *geriye dönük maskeleme* (CloudWatch yeni logları maskeler, önceki loglar otomatik değil) → re‑ingest; *erişim* (unmask yalnızca yetkili rollere); *bütünlük* ve *şifreleme*; *performans etkisi* (regex/ML ağırsa collector/ingest’i ölçekle); *shift‑left* (OWASP rehberi + detect‑secrets/TruffleHog ile CI). [\[schellman.com\]](https://www.schellman.com/blog/healthcare-compliance/hipaa-audit-log-retention-policy), [\[opentelemetry.io\]](https://opentelemetry.io/docs/languages/dotnet/logs/redaction/), [\[docs.aws.amazon.com\]](https://docs.aws.amazon.com/AmazonCloudWatch/latest/logs/mask-sensitive-log-data.html), [\[github.com\]](https://github.com/trufflesecurity/trufflehog), [\[eu-prod.as...rosoft.com\]](https://eu-prod.asyncgw.teams.microsoft.com/v1/objects/0-weu-d12-1e6756d8871d235d850bbea7f636d0ba/views/original/research.copilot.result.md), [\[dash0.com\]](https://www.dash0.com/guides/opentelemetry-redaction-processor)
+
+***
+
+### Notlar & sonraki adımlar
+
+İstersen raporu **organizasyonuna göre özelleştireyim**: kullandığın log altyapısı (örn. Splunk/Elastic/Datadog/Azure/AWS/GCP), regülasyon kapsamı (GDPR/ISO/PCI/HIPAA) ve geliştirici yığınına (Java/.NET/Node/Python) göre **hedef konfigürasyon dosyaları** ve **devreye alım planı** çıkarabilirim. Ayrıca **PoC** için OTel Collector + mevcut log hattına tak‑çıkar bir maskeleme pipeline’ı önereyim mi?
