@@ -6,6 +6,7 @@ Günlük Toplama: Farklı kaynaklardan (uygulama sunucuları, veritabanları, g�
 Hassas Bilgi Tespiti: Toplanan günlük dosyaları, önceden eğitilmiş makine öğrenmesi modelleri kullanılarak analiz edilir. Bu modeller, günlüklerdeki hassas bilgileri (kişisel veriler, kredi kartı numaraları, sağlık kayıtları vb.) tespit etmek için tasarlanmıştır.
 Raporlama ve Görselleştirme: Tespit edilen hassas bilgiler, kullanıcı dostu raporlar ve görselleştirmeler aracılığıyla sunulur. Bu raporlar, güvenlik ekiplerinin ve uyum uzmanlarının günlük verileri daha iyi anlamalarına yardımcı olur.
 Uyarı ve Olay Yönetimi: Kritik hassas bilgi tespitlerinde, otomatik olarak uyarılar tetiklenir ve olay yönetimi süreçleri başlatılır. Bu sayede, hassas verilerin güvenliği hızlı bir şekilde sağlanabilir.
+
 2. En İyi Uygulama Yöntemleri ve Endüstri Standartları
 Log Sensitivity Analyzer'ın en iyi uygulama yöntemleri ve endüstri standartları şunlardır:
 
@@ -14,6 +15,7 @@ Hassas Bilgi Tespiti: GDPR, HIPAA, PCI-DSS gibi veri koruma standartlarına uygu
 Raporlama ve Görselleştirme: Tespit edilen hassas bilgiler, güvenlik ekipleri ve uyum uzmanları tarafından kolayca anlaşılabilecek raporlar ve görselleştirmeler halinde sunulmalıdır.
 Otomatik Uyarı Sistemi: Kritik hassas bilgi tespitlerinde, ilgili paydaşlara otomatik olarak uyarılar gönderilmeli ve olay yönetimi süreçleri başlatılmalıdır.
 Sürekli İyileştirme: Hassas bilgi tespiti modellerinin performansı düzenli olarak izlenmeli ve gerektiğinde güncellenmelidir. Böylece, yeni tehditler ve değişen ihtiyaçlar karşısında etkinlik sağlanabilir.
+
 3. Benzer Açık Kaynak Projeler ve Rakipler
 Log Sensitivity Analyzer'a benzer açık kaynak projeler ve endüstriyel rakipler şunlardır:
 
@@ -27,6 +29,7 @@ Endüstriyel Rakipler:
 Splunk: Günlük analizi, görselleştirme ve olay yönetimi için endüstriyel bir çözüm sunar.
 ArcSight: Kurumsal güvenlik bilgi ve olay yönetimi (SIEM) çözümü sağlar.
 Sumo Logic: Bulut tabanlı günlük yönetimi ve analiz hizmeti sunar.
+
 4. Kritik Yapılandırma Dosyaları ve Parametreleri
 Log Sensitivity Analyzer'ın kritik yapılandırma dosyaları ve parametreleri şunlardır:
 
@@ -50,6 +53,7 @@ Uyarı ve Olay Yönetimi Yapılandırması:
 Kritik hassas bilgi tespitlerinde tetiklenecek uyarı kuralları
 Uyarıların iletileceği kişiler ve iletişim kanalları
 Olay yönetimi süreçlerinin başlatılması için gerekli yapılandırmalar
+
 5. Güvenlik Açısından Dikkat Edilmesi Gereken Noktalar
 Log Sensitivity Analyzer'ın güvenlik açısından dikkat edilmesi gereken kritik noktalar şunlardır:
 
