@@ -3,6 +3,7 @@ Log Sensitivity Analyzer — Teknik Araştırma Raporu
 
 Not: “Log Sensitivity Analyzer” terimi literatürde tekil bir ürün olarak yer almasa da; kavramsal olarak log verilerindeki anormalliklerin, duyarlılıkların (sensitivity/anomaly) tespit edildiği analiz sistemleri veya bu tür sistemlerin komponentleri olarak ele alındı. Bu raporda bu teknolojinin genel çalışma prensiplerinden, endüstri uygulamalarına ve açık kaynak alternatiflerine kadar kapsamlı bir çerçeve sunuyorum.
 
+_____________________________________
 1)  Temel Çalışma Prensipleri
 _____________________________________  
  Log Analizi Nedir?
@@ -29,6 +30,7 @@ Modelleme / Sensitivity Scoring: Anomali skorları üreten modeller (ör. Isolat
 
 Uyarı & Korelasyon: Anormal aktiviteler tespit edildiğinde uyarı üretme, olayları ilişkisel olarak bağlama.
 
+___________________________________________
 2)  Best Practices & Endüstri Standartları
  ___________________________________________
  En İyi Uygulama Metodolojileri
@@ -58,6 +60,8 @@ Modeller çevresel değişikliklere göre güncellenmeli — örneğin trafik ti
 
 Yanıltıcı uyarıları engellemek için ayarlanabilir eşikler, bağlamsal filtreleme ve model geçerlilik kontrolleri kullanılmalı.
 
+______________________________________________
+
 3)  Benzer Açık Kaynak Projeler / Rakipler
 ______________________________________________
 
@@ -80,6 +84,7 @@ LogBERT, LogGD gibi modeller: transformer / GNN tabanlı anomalilik tespiti ara�
 
 Önemli: Bu araçların birçoğu doğrudan “sensitivity analyzer” ismiyle anılmasa da log duyarlılık (anomali/sensitivity) tespiti için kullanılabilir.
 
+____________________________________________________
 4)  Kritik Yapılandırma Dosyaları ve Parametreler
  ____________________________________________________
  SIEM / Log Analiz Platformları
@@ -106,6 +111,7 @@ Sagan signature/rule dosyaları
 
 Bu parametreler, false positive/negative oranını doğrudan etkiler.
 
+____________________________________________
 5)  Güvenlik Açısından Kritik Hususlar
 ____________________________________________
  Log Bütünlüğü
