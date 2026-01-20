@@ -1,0 +1,9 @@
+LOG ANALIZ RAPORU - 2026-01-20 23:52:22.710408
+--------------------------------------------------
+[!] E-posta Tespit Edildi | Satir: 2 | Veri: siber_guvenlik@test.com
+[!] IP Adresi Tespit Edildi | Satir: 3 | Veri: 10.0.2.15
+[!] Sifre/Token Tespit Edildi | Satir: 4 | Veri: password: Sifre123!
+[!] Kredi Karti Tespit Edildi | Satir: 5 | Veri: 4543 1234 5678 0012
+[!] TC Kimlik Tespit Edildi | Satir: 6 | Veri: 12345678901
+--------------------------------------------------
+Toplam 5 adet hassas veri bulundu.

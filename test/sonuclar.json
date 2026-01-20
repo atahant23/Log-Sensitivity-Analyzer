@@ -1,0 +1,2213 @@
+{
+    "tarih": "2026-01-21 01:26:38.477273",
+    "bulgular": [
+        {
+            "satir": 1,
+            "kategori": "E-posta",
+            "orjinal": "user_689@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 21,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: hg5cc0IxjcSA!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 54,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 0N3FYe2dyI28!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 60,
+            "kategori": "E-posta",
+            "orjinal": "user_656@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 63,
+            "kategori": "IP Adresi",
+            "orjinal": "227.13.1.1",
+            "maskeli": "227.13.*.*"
+        },
+        {
+            "satir": 108,
+            "kategori": "E-posta",
+            "orjinal": "user_916@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 163,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: mct0bpsYhn3io1ZO9BPtVtze55SkTRWD",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 171,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: OZg5ZbeHKCM5!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 341,
+            "kategori": "E-posta",
+            "orjinal": "user_497@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 342,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: inqgmzI8SWXj!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 350,
+            "kategori": "IP Adresi",
+            "orjinal": "134.214.1.1",
+            "maskeli": "134.214.*.*"
+        },
+        {
+            "satir": 431,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 9Sqj3FJfCy2WEZ8Qa69CzG4gqqiHPvxk",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 463,
+            "kategori": "E-posta",
+            "orjinal": "user_945@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 519,
+            "kategori": "IP Adresi",
+            "orjinal": "39.156.1.1",
+            "maskeli": "39.156.*.*"
+        },
+        {
+            "satir": 541,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: pw49gMUBqgr9!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 567,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 0tsTVhTnwqQqvSYYdglnx0kATIQ3YEbS",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 572,
+            "kategori": "E-posta",
+            "orjinal": "user_201@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 579,
+            "kategori": "IP Adresi",
+            "orjinal": "16.67.1.1",
+            "maskeli": "16.67.*.*"
+        },
+        {
+            "satir": 598,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: I4ldvmgnmLWaEK9EdOaa769QOY4d2lHi",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 638,
+            "kategori": "E-posta",
+            "orjinal": "user_128@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 686,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: MHxc93NIaSTjTqYLNtffOkOvwr7CZ8Ha",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 704,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: BlW9EdXNaXCTYiUShBMbzj0KwOoGizpr",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 709,
+            "kategori": "IP Adresi",
+            "orjinal": "203.141.1.1",
+            "maskeli": "203.141.*.*"
+        },
+        {
+            "satir": 897,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: exJKMfXUonHris3Wwq7VNzLpjZVrCiZT",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 908,
+            "kategori": "E-posta",
+            "orjinal": "user_654@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 911,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: nPqJVouDvmKr!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 918,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: qKJGC6H0PILFXVsl2JrEiAPL3Owcbd76",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 981,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 2AOSq8Gtlxb1RPgXItLXqmQfxrsa8TXQ",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 1020,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: aMl1Am0tPpyhUPlRljM1nPMjuu8b1BSw",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 1049,
+            "kategori": "IP Adresi",
+            "orjinal": "5.197.1.1",
+            "maskeli": "5.197.*.*"
+        },
+        {
+            "satir": 1055,
+            "kategori": "IP Adresi",
+            "orjinal": "94.44.1.1",
+            "maskeli": "94.44.*.*"
+        },
+        {
+            "satir": 1109,
+            "kategori": "E-posta",
+            "orjinal": "user_44@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 1122,
+            "kategori": "E-posta",
+            "orjinal": "user_636@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 1144,
+            "kategori": "E-posta",
+            "orjinal": "user_527@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 1174,
+            "kategori": "IP Adresi",
+            "orjinal": "150.231.1.1",
+            "maskeli": "150.231.*.*"
+        },
+        {
+            "satir": 1178,
+            "kategori": "IP Adresi",
+            "orjinal": "170.252.1.1",
+            "maskeli": "170.252.*.*"
+        },
+        {
+            "satir": 1211,
+            "kategori": "E-posta",
+            "orjinal": "user_994@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 1237,
+            "kategori": "E-posta",
+            "orjinal": "user_807@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 1431,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 3NHDkQMZW1UoofIYKyy9UoW9M810Uydg",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 1534,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: TkJmb9IQedXP5940VskRCrD5KXGSqa7X",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 1690,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: T5EP09Yhly7Piucbw3q2qIMROAsN1wmD",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 1696,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: hH7HU7PfNQku!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 1820,
+            "kategori": "IP Adresi",
+            "orjinal": "250.193.1.1",
+            "maskeli": "250.193.*.*"
+        },
+        {
+            "satir": 1856,
+            "kategori": "E-posta",
+            "orjinal": "user_356@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 1877,
+            "kategori": "E-posta",
+            "orjinal": "user_711@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 1897,
+            "kategori": "E-posta",
+            "orjinal": "user_941@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 2050,
+            "kategori": "E-posta",
+            "orjinal": "user_482@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 2055,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: bWaYU3DVpQ69!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 2270,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: waLZVzTygO28XvRW1nTQ54aQoDU1jRgh",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 2273,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 9pNYSsBK2arq!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 2384,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: YcEIxIqpSe9R!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 2581,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: yH837eBE7SMA!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 2636,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: lHpHy0GqbMUp54suJagUPZdVfK8Ft7Il",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 2706,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: hvkXtHl4yA5a!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 2757,
+            "kategori": "IP Adresi",
+            "orjinal": "210.248.1.1",
+            "maskeli": "210.248.*.*"
+        },
+        {
+            "satir": 2772,
+            "kategori": "E-posta",
+            "orjinal": "user_516@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 2923,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: Q1ugBJrTSRMK!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 2981,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: JC8W3kMr22kW!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 2990,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: zRQj2zhFOkEk!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 3040,
+            "kategori": "IP Adresi",
+            "orjinal": "132.17.1.1",
+            "maskeli": "132.17.*.*"
+        },
+        {
+            "satir": 3080,
+            "kategori": "E-posta",
+            "orjinal": "user_581@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 3087,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: UnBk8aQf91wG!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 3092,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: qrArSRCyYZKhBHQzYcehdBtvYBcssQem",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 3102,
+            "kategori": "IP Adresi",
+            "orjinal": "150.218.1.1",
+            "maskeli": "150.218.*.*"
+        },
+        {
+            "satir": 3112,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: jkhPyPp6vvJ0zcoz4qVR2zUmvOvGiDYA",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 3116,
+            "kategori": "IP Adresi",
+            "orjinal": "180.154.1.1",
+            "maskeli": "180.154.*.*"
+        },
+        {
+            "satir": 3147,
+            "kategori": "E-posta",
+            "orjinal": "user_75@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 3174,
+            "kategori": "IP Adresi",
+            "orjinal": "192.88.1.1",
+            "maskeli": "192.88.*.*"
+        },
+        {
+            "satir": 3189,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 2hh4K6PNHwGm!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 3284,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: IwuHy6TINSZv0eV8ZCMgKhDeF3eaDfeS",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 3429,
+            "kategori": "E-posta",
+            "orjinal": "user_763@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 3430,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: l9WLhsX3tEyh!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 3519,
+            "kategori": "E-posta",
+            "orjinal": "user_230@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 3538,
+            "kategori": "E-posta",
+            "orjinal": "user_809@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 3618,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: m1n7bXfQ7UtJfu5qPLELYxbKgcq2ThLI",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 3672,
+            "kategori": "E-posta",
+            "orjinal": "user_538@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 3724,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: hJ7PVuSjGpIl!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 3819,
+            "kategori": "E-posta",
+            "orjinal": "user_627@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 3890,
+            "kategori": "IP Adresi",
+            "orjinal": "163.244.1.1",
+            "maskeli": "163.244.*.*"
+        },
+        {
+            "satir": 3914,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: z8hHJsjb5rUkSQmgrDKQBtjlJztCTY1U",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 4006,
+            "kategori": "IP Adresi",
+            "orjinal": "129.71.1.1",
+            "maskeli": "129.71.*.*"
+        },
+        {
+            "satir": 4317,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: bLVkcZr3pUvXUhenb4vjX9HmLmGKrFXL",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 4342,
+            "kategori": "IP Adresi",
+            "orjinal": "217.249.1.1",
+            "maskeli": "217.249.*.*"
+        },
+        {
+            "satir": 4351,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: fsDjaDptfQtpo1h98KDnFFsFlDF5NDmS",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 4353,
+            "kategori": "E-posta",
+            "orjinal": "user_375@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 4368,
+            "kategori": "E-posta",
+            "orjinal": "user_632@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 4485,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: hWjwsCQbR7DT!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 4505,
+            "kategori": "E-posta",
+            "orjinal": "user_599@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 4585,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: oRCQVtjGjUiBf9disR2u9VMm226xQmvJ",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 4596,
+            "kategori": "E-posta",
+            "orjinal": "user_244@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 4599,
+            "kategori": "IP Adresi",
+            "orjinal": "240.144.1.1",
+            "maskeli": "240.144.*.*"
+        },
+        {
+            "satir": 4668,
+            "kategori": "IP Adresi",
+            "orjinal": "172.43.1.1",
+            "maskeli": "172.43.*.*"
+        },
+        {
+            "satir": 4693,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: GKlqHbromHaV!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 4778,
+            "kategori": "IP Adresi",
+            "orjinal": "160.28.1.1",
+            "maskeli": "160.28.*.*"
+        },
+        {
+            "satir": 4795,
+            "kategori": "IP Adresi",
+            "orjinal": "193.237.1.1",
+            "maskeli": "193.237.*.*"
+        },
+        {
+            "satir": 4921,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: jbQGXzK8ZBTY!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 4940,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: sS5CTeDGpjkn!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 4950,
+            "kategori": "IP Adresi",
+            "orjinal": "57.200.1.1",
+            "maskeli": "57.200.*.*"
+        },
+        {
+            "satir": 4979,
+            "kategori": "E-posta",
+            "orjinal": "user_291@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 5053,
+            "kategori": "IP Adresi",
+            "orjinal": "107.47.1.1",
+            "maskeli": "107.47.*.*"
+        },
+        {
+            "satir": 5143,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 5DSoQQ0brcufYfNrMf0EM0cQvzwXTZkr",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 5175,
+            "kategori": "E-posta",
+            "orjinal": "user_247@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 5210,
+            "kategori": "E-posta",
+            "orjinal": "user_993@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 5450,
+            "kategori": "IP Adresi",
+            "orjinal": "11.63.1.1",
+            "maskeli": "11.63.*.*"
+        },
+        {
+            "satir": 5463,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: Ekzn5BRjuzuS!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 5488,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: GhDCYqizkmY7!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 5541,
+            "kategori": "IP Adresi",
+            "orjinal": "224.22.1.1",
+            "maskeli": "224.22.*.*"
+        },
+        {
+            "satir": 5592,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: rS3uVQxZdKuhqCYrWj7VySDC1rZjr0gm",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 5667,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: ZEXzUBSf4Pe0GabDYKp9ypxZc0cTy4Sg",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 5737,
+            "kategori": "IP Adresi",
+            "orjinal": "195.93.1.1",
+            "maskeli": "195.93.*.*"
+        },
+        {
+            "satir": 5759,
+            "kategori": "IP Adresi",
+            "orjinal": "250.137.1.1",
+            "maskeli": "250.137.*.*"
+        },
+        {
+            "satir": 5807,
+            "kategori": "IP Adresi",
+            "orjinal": "3.7.1.1",
+            "maskeli": "3.7.*.*"
+        },
+        {
+            "satir": 5846,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: FR9Ax3AxH26bhChf7f8VC8OuRZjKThmR",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 5904,
+            "kategori": "E-posta",
+            "orjinal": "user_235@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 5936,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: Kxteh8J0VyTF!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 5959,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: HIv7C5eRPxmk!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 5974,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: O91ghftMyNiy9M5CaJ6yTwxWZd7STNvm",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 6131,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: f9PAdIcSTfZy!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 6253,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: rh0K1DVTdbouPDuTVr6xmmuNuHTzINNK",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 6257,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 275YIjX6Yxv8Gy2moPhFZF0mZxk9tQGG",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 6291,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: aia2IeOtKA1e!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 6411,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: sNjIFdgV6NT8!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 6440,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: mrqQtfCTxHoYcCFubt8KiilnGTHmxhPE",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 6470,
+            "kategori": "E-posta",
+            "orjinal": "user_417@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 6485,
+            "kategori": "IP Adresi",
+            "orjinal": "46.153.1.1",
+            "maskeli": "46.153.*.*"
+        },
+        {
+            "satir": 6500,
+            "kategori": "IP Adresi",
+            "orjinal": "76.134.1.1",
+            "maskeli": "76.134.*.*"
+        },
+        {
+            "satir": 6527,
+            "kategori": "IP Adresi",
+            "orjinal": "116.160.1.1",
+            "maskeli": "116.160.*.*"
+        },
+        {
+            "satir": 6535,
+            "kategori": "E-posta",
+            "orjinal": "user_444@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 6591,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: WJiLDIpFFmptzu3nDuCxg2gcB949dQKK",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 6622,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: ZHcu0bibVd0K!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 6632,
+            "kategori": "E-posta",
+            "orjinal": "user_860@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 6633,
+            "kategori": "E-posta",
+            "orjinal": "user_284@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 6717,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: lYSEdRMZ3Immo6tYwhYJZBoy8BTcGnxG",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 6776,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: aKiSF3O0758f!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 6877,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: Kl4qMCfuwfgqN4alKqcEg3Ztgro8Nnnf",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 6914,
+            "kategori": "IP Adresi",
+            "orjinal": "185.235.1.1",
+            "maskeli": "185.235.*.*"
+        },
+        {
+            "satir": 6979,
+            "kategori": "IP Adresi",
+            "orjinal": "12.187.1.1",
+            "maskeli": "12.187.*.*"
+        },
+        {
+            "satir": 7034,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: SvdYIaKdrKqCw1OToqsaaJgi4K4G8nqp",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 7078,
+            "kategori": "IP Adresi",
+            "orjinal": "23.24.1.1",
+            "maskeli": "23.24.*.*"
+        },
+        {
+            "satir": 7126,
+            "kategori": "E-posta",
+            "orjinal": "user_188@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 7216,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: HmNSpZTBvILj!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 7354,
+            "kategori": "IP Adresi",
+            "orjinal": "195.240.1.1",
+            "maskeli": "195.240.*.*"
+        },
+        {
+            "satir": 7417,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: ZtpFxK6Yivkp!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 7536,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: gkCWJhcOgvw8nx5SLAp8fZkb0r3TQvcy",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 7623,
+            "kategori": "IP Adresi",
+            "orjinal": "71.152.1.1",
+            "maskeli": "71.152.*.*"
+        },
+        {
+            "satir": 7733,
+            "kategori": "IP Adresi",
+            "orjinal": "192.132.1.1",
+            "maskeli": "192.132.*.*"
+        },
+        {
+            "satir": 7760,
+            "kategori": "E-posta",
+            "orjinal": "user_474@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 7776,
+            "kategori": "IP Adresi",
+            "orjinal": "173.58.1.1",
+            "maskeli": "173.58.*.*"
+        },
+        {
+            "satir": 7811,
+            "kategori": "E-posta",
+            "orjinal": "user_195@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 7816,
+            "kategori": "IP Adresi",
+            "orjinal": "203.187.1.1",
+            "maskeli": "203.187.*.*"
+        },
+        {
+            "satir": 7856,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: jQPlnr72Tdsl!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 7916,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: ao7w43Qc9axo!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 7975,
+            "kategori": "IP Adresi",
+            "orjinal": "66.171.1.1",
+            "maskeli": "66.171.*.*"
+        },
+        {
+            "satir": 8086,
+            "kategori": "E-posta",
+            "orjinal": "user_779@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 8124,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: uXMTsansJIQTM0Rx2hTt2M5rw8TDcOZJ",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 8143,
+            "kategori": "IP Adresi",
+            "orjinal": "186.214.1.1",
+            "maskeli": "186.214.*.*"
+        },
+        {
+            "satir": 8155,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: fxDyp5iPiWJb!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 8252,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: UJmibuZZ9jvh!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 8309,
+            "kategori": "E-posta",
+            "orjinal": "user_13@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 8328,
+            "kategori": "IP Adresi",
+            "orjinal": "210.121.1.1",
+            "maskeli": "210.121.*.*"
+        },
+        {
+            "satir": 8350,
+            "kategori": "IP Adresi",
+            "orjinal": "109.65.1.1",
+            "maskeli": "109.65.*.*"
+        },
+        {
+            "satir": 8389,
+            "kategori": "E-posta",
+            "orjinal": "user_962@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 8455,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: MiKBhQB0oISa!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 8463,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: qMU8ZxrHPbJukuhI9l7vTk2seMBrv0sv",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 8585,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: gJ072dapqIkjqOsvEEyi0bQ9kwTCcxuk",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 8599,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: vrzz4TsGGMRdrWYAKSfUoY23bvvZu9Xl",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 8751,
+            "kategori": "E-posta",
+            "orjinal": "user_798@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 8789,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: wrZMzaLkI925PF7mAFeTtFkub6fN3Vkn",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 8809,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: MLjbKx9N29eugXOkG9x5dMOxq9vYxgFa",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 8830,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: W7kqVYQc7nXx!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 8895,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: Pyp4ET5OO1lM!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 8900,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: edzpTgManDjknXYMr1rrmFArKBw0kZiD",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 8923,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 5x0OL4B4BR7b!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 8940,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: UlbkzKf0y8Wi!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 9216,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: m7Hzh74GVl9p!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 9304,
+            "kategori": "E-posta",
+            "orjinal": "user_109@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 9374,
+            "kategori": "E-posta",
+            "orjinal": "user_306@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 9428,
+            "kategori": "E-posta",
+            "orjinal": "user_572@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 9464,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: vvY3pAJsYn3kYclF687F8KwVLpOMiCP2",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 9468,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: eaRjcl6QSjZs!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 9474,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: XEyOu8faIvMG6u9RfyJRMatDx5wwbDVz",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 9480,
+            "kategori": "E-posta",
+            "orjinal": "user_204@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 9495,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: dM9Nc7hKaR7uvysb4EoDcBbVEDdRRqXx",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 9499,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 40q87LCWgnhk!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 9501,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 0FwNMrgmO5fz!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 9622,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: PhhJH6BZHcuOHVgvgrZ1Lv7cwt4CUlfb",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 9763,
+            "kategori": "IP Adresi",
+            "orjinal": "72.116.1.1",
+            "maskeli": "72.116.*.*"
+        },
+        {
+            "satir": 9941,
+            "kategori": "IP Adresi",
+            "orjinal": "15.181.1.1",
+            "maskeli": "15.181.*.*"
+        },
+        {
+            "satir": 9966,
+            "kategori": "E-posta",
+            "orjinal": "user_900@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 10009,
+            "kategori": "IP Adresi",
+            "orjinal": "166.199.1.1",
+            "maskeli": "166.199.*.*"
+        },
+        {
+            "satir": 10043,
+            "kategori": "IP Adresi",
+            "orjinal": "217.75.1.1",
+            "maskeli": "217.75.*.*"
+        },
+        {
+            "satir": 10073,
+            "kategori": "E-posta",
+            "orjinal": "user_33@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 10282,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: vuNL6NnmTH01!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 10342,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: hnQmOsBJHXZMiPAiIz2gTzjzrWTb2a40",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 10368,
+            "kategori": "IP Adresi",
+            "orjinal": "50.197.1.1",
+            "maskeli": "50.197.*.*"
+        },
+        {
+            "satir": 10377,
+            "kategori": "E-posta",
+            "orjinal": "user_859@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 10611,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: TDxgSdseV4uy95VhOP98Ktieg2usihVZ",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 10665,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: LqsvAAviaolJ0qEy1UCkCRBAomHg2keV",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 10845,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: x8W7AwrTwDC7AWUAv1PoJ0yFJli41UjA",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 11046,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 1yLvLeTHsDC8!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 11082,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: wBvV2Oqpy7L6!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 11223,
+            "kategori": "E-posta",
+            "orjinal": "user_396@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 11418,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: TxT3iMOkUkcOMyJKlpJ4P8HzESSSbPfD",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 11426,
+            "kategori": "IP Adresi",
+            "orjinal": "40.73.1.1",
+            "maskeli": "40.73.*.*"
+        },
+        {
+            "satir": 11473,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: C0IJ2n9P8Q0HOUjCoyxhk2KqwoK9CkE3",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 11491,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 0SzMIpAspCe6!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 11678,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: JpfgUR5mllNK!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 11692,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 4ytLtvf7gFYg!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 11740,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: Ee13ICoFfQOjGec8jhHCvSbOz008ixZ3",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 11767,
+            "kategori": "IP Adresi",
+            "orjinal": "5.56.1.1",
+            "maskeli": "5.56.*.*"
+        },
+        {
+            "satir": 11832,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: yMZOIN9zLBiE!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 11855,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 2yN6dvjEXslHxZaQlqxkJlh5J0aIkhnP",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 11947,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: EeHM0g2tcijCyQs4YtrMjdYr5NaHbh6m",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 12036,
+            "kategori": "IP Adresi",
+            "orjinal": "177.148.1.1",
+            "maskeli": "177.148.*.*"
+        },
+        {
+            "satir": 12058,
+            "kategori": "E-posta",
+            "orjinal": "user_986@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 12079,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: ILJjQCye4nbH!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 12095,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: stqQT86qTPGXHLFrFCGXYsjaUdXf4C0O",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 12176,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: HaKCHM4OQKyA65UdEY2vLw53vU6asS00",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 12217,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: Ra7kztXw0l7otBqS5QvpVfw8ievN6gfJ",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 12257,
+            "kategori": "E-posta",
+            "orjinal": "user_250@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 12392,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: rd8TTFeLiJzC!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 12503,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: BsYoQIZrzxojdr2ZHRKenwFPHfV7bPAz",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 12528,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: nSfneJEbDpVThhhNf6II7xLdXcDcgf41",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 12530,
+            "kategori": "IP Adresi",
+            "orjinal": "27.97.1.1",
+            "maskeli": "27.97.*.*"
+        },
+        {
+            "satir": 12588,
+            "kategori": "E-posta",
+            "orjinal": "user_242@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 12624,
+            "kategori": "E-posta",
+            "orjinal": "user_832@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 12832,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 2GROq1EwJ70WGkG3UMLPCLU1rpQBoYhI",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 12836,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: riJn5QdXeoIZYjFTV63RnO4aHf19ip8P",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 12843,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: kmpISnHEt0Qi!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 12914,
+            "kategori": "E-posta",
+            "orjinal": "user_819@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 12916,
+            "kategori": "IP Adresi",
+            "orjinal": "165.207.1.1",
+            "maskeli": "165.207.*.*"
+        },
+        {
+            "satir": 12966,
+            "kategori": "E-posta",
+            "orjinal": "user_375@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 13008,
+            "kategori": "E-posta",
+            "orjinal": "user_793@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 13117,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 4viDCSAMFWfsFdnKuVmm4OxIN62ZH3IZ",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 13274,
+            "kategori": "IP Adresi",
+            "orjinal": "8.78.1.1",
+            "maskeli": "8.78.*.*"
+        },
+        {
+            "satir": 13330,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: Ycwlr2vERdRP!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 13394,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 4cLCBOqAMUzG!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 13534,
+            "kategori": "IP Adresi",
+            "orjinal": "251.124.1.1",
+            "maskeli": "251.124.*.*"
+        },
+        {
+            "satir": 13585,
+            "kategori": "IP Adresi",
+            "orjinal": "198.221.1.1",
+            "maskeli": "198.221.*.*"
+        },
+        {
+            "satir": 13733,
+            "kategori": "E-posta",
+            "orjinal": "user_421@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 13739,
+            "kategori": "E-posta",
+            "orjinal": "user_571@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 13760,
+            "kategori": "E-posta",
+            "orjinal": "user_306@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 13766,
+            "kategori": "E-posta",
+            "orjinal": "user_856@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 13801,
+            "kategori": "IP Adresi",
+            "orjinal": "202.60.1.1",
+            "maskeli": "202.60.*.*"
+        },
+        {
+            "satir": 13814,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: vRmf7hb6u5d42bTO9nr485g8Ngvk57tm",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 13821,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: JH3QhpZMGFQdgMhQk9Xm18cMr7fzhKEX",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 13841,
+            "kategori": "IP Adresi",
+            "orjinal": "206.216.1.1",
+            "maskeli": "206.216.*.*"
+        },
+        {
+            "satir": 13852,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: EOMIYjpUwICH!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 13870,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: OlnZ4WP7BFH7I2UxAjaO8QBKtZotLWjA",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 13871,
+            "kategori": "E-posta",
+            "orjinal": "user_487@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 13892,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: sZxEs7xfYLc7!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 13912,
+            "kategori": "IP Adresi",
+            "orjinal": "212.158.1.1",
+            "maskeli": "212.158.*.*"
+        },
+        {
+            "satir": 13933,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: DmUWMNtNkjW0zPopnfroP1HiDHKCRje2",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 14030,
+            "kategori": "IP Adresi",
+            "orjinal": "180.176.1.1",
+            "maskeli": "180.176.*.*"
+        },
+        {
+            "satir": 14054,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: NPY198iTR8u3!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 14204,
+            "kategori": "E-posta",
+            "orjinal": "user_512@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 14211,
+            "kategori": "E-posta",
+            "orjinal": "user_858@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 14287,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: bgUO9O7tztVB!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 14332,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 5O4wpvR1qshz!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 14337,
+            "kategori": "IP Adresi",
+            "orjinal": "215.186.1.1",
+            "maskeli": "215.186.*.*"
+        },
+        {
+            "satir": 14397,
+            "kategori": "E-posta",
+            "orjinal": "user_407@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 14412,
+            "kategori": "IP Adresi",
+            "orjinal": "230.192.1.1",
+            "maskeli": "230.192.*.*"
+        },
+        {
+            "satir": 14497,
+            "kategori": "IP Adresi",
+            "orjinal": "86.62.1.1",
+            "maskeli": "86.62.*.*"
+        },
+        {
+            "satir": 14566,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: yWf3O8UR8gA0j4o3arTtvNXklGfPnP0x",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 14591,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 9rU2DCLeFL2O!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 14597,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: Ww7dkBGF8DdBFYhpsMVbbOeLMB6LquRR",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 14601,
+            "kategori": "IP Adresi",
+            "orjinal": "141.127.1.1",
+            "maskeli": "141.127.*.*"
+        },
+        {
+            "satir": 14637,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: vOTx66pwY3jY!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 14737,
+            "kategori": "IP Adresi",
+            "orjinal": "212.38.1.1",
+            "maskeli": "212.38.*.*"
+        },
+        {
+            "satir": 14738,
+            "kategori": "IP Adresi",
+            "orjinal": "136.157.1.1",
+            "maskeli": "136.157.*.*"
+        },
+        {
+            "satir": 14762,
+            "kategori": "E-posta",
+            "orjinal": "user_80@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 14776,
+            "kategori": "IP Adresi",
+            "orjinal": "219.23.1.1",
+            "maskeli": "219.23.*.*"
+        },
+        {
+            "satir": 14875,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 27WU1RDyQC1C1Im6Sq0SRdSy5r8H5E1N",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 14951,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: OsZL8HY4UuGt5KldIDZtjHULP86fL7G7",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 14986,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: XmmmYMDo03r1YCSzCrYd0wi7ROSYPnhd",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 15007,
+            "kategori": "IP Adresi",
+            "orjinal": "19.2.1.1",
+            "maskeli": "19.2.*.*"
+        },
+        {
+            "satir": 15071,
+            "kategori": "IP Adresi",
+            "orjinal": "144.103.1.1",
+            "maskeli": "144.103.*.*"
+        },
+        {
+            "satir": 15125,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: NdkvhEUM7h9l!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 15317,
+            "kategori": "IP Adresi",
+            "orjinal": "230.128.1.1",
+            "maskeli": "230.128.*.*"
+        },
+        {
+            "satir": 15350,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: BZq35TV0rd1OMKbQuZDGvD2tCBtRNeEW",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 15383,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: eacglmSirfK0HgXGIw73WfrPOZ3nwpCk",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 15491,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: fU4igUohsxDg7bt9SsosuB3f0SyKcwW8",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 15598,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: qR1aGRxqjYFMZVRYbKneGFPhbfHmCFHs",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 15612,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 2ictCItDFPEi!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 15788,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: JO8kPwAzC5TchHnziRSAbkOtoH2BCO9v",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 15844,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: ysVKAlQNpjcAthYDD6gXZU4y9VozvSSg",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 15890,
+            "kategori": "IP Adresi",
+            "orjinal": "23.180.1.1",
+            "maskeli": "23.180.*.*"
+        },
+        {
+            "satir": 16011,
+            "kategori": "IP Adresi",
+            "orjinal": "83.150.1.1",
+            "maskeli": "83.150.*.*"
+        },
+        {
+            "satir": 16054,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: KTdqmz7yDFGC!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 16065,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: 5qlHcszR3x9n!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 16277,
+            "kategori": "IP Adresi",
+            "orjinal": "101.230.1.1",
+            "maskeli": "101.230.*.*"
+        },
+        {
+            "satir": 16293,
+            "kategori": "E-posta",
+            "orjinal": "user_881@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 16346,
+            "kategori": "E-posta",
+            "orjinal": "user_391@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 16388,
+            "kategori": "IP Adresi",
+            "orjinal": "17.219.1.1",
+            "maskeli": "17.219.*.*"
+        },
+        {
+            "satir": 16413,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: OuVQBuigQFiyTHATLmIDOkGIZr59YmSE",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 16474,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: ErJn625zUOw9!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 16475,
+            "kategori": "E-posta",
+            "orjinal": "user_901@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 16476,
+            "kategori": "IP Adresi",
+            "orjinal": "197.220.1.1",
+            "maskeli": "197.220.*.*"
+        },
+        {
+            "satir": 16527,
+            "kategori": "E-posta",
+            "orjinal": "user_671@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 16646,
+            "kategori": "IP Adresi",
+            "orjinal": "11.33.1.1",
+            "maskeli": "11.33.*.*"
+        },
+        {
+            "satir": 16659,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 1gDSqDdLjU8u1G45CqPFDHgGtpEFjXFg",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 16682,
+            "kategori": "E-posta",
+            "orjinal": "user_890@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 16713,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: AzdEImNgYZLf!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 16820,
+            "kategori": "IP Adresi",
+            "orjinal": "109.3.1.1",
+            "maskeli": "109.3.*.*"
+        },
+        {
+            "satir": 16834,
+            "kategori": "IP Adresi",
+            "orjinal": "118.31.1.1",
+            "maskeli": "118.31.*.*"
+        },
+        {
+            "satir": 16928,
+            "kategori": "IP Adresi",
+            "orjinal": "102.220.1.1",
+            "maskeli": "102.220.*.*"
+        },
+        {
+            "satir": 16974,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 69HADYH3IT7I8pkvkZ13Ry5S4Z7pzOXV",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 17041,
+            "kategori": "IP Adresi",
+            "orjinal": "240.118.1.1",
+            "maskeli": "240.118.*.*"
+        },
+        {
+            "satir": 17059,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: 2J3UR9vDPdZSGkb9roKWleNVTVJmj3up",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 17063,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: jrzRW9FrGIeV!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 17171,
+            "kategori": "E-posta",
+            "orjinal": "user_686@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 17178,
+            "kategori": "E-posta",
+            "orjinal": "user_524@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 17226,
+            "kategori": "E-posta",
+            "orjinal": "user_261@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 17266,
+            "kategori": "IP Adresi",
+            "orjinal": "178.96.1.1",
+            "maskeli": "178.96.*.*"
+        },
+        {
+            "satir": 17333,
+            "kategori": "IP Adresi",
+            "orjinal": "183.35.1.1",
+            "maskeli": "183.35.*.*"
+        },
+        {
+            "satir": 17352,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: SJxeEKHGg3sYYFmBTyYnwx8p7MtKIMcI",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 17440,
+            "kategori": "E-posta",
+            "orjinal": "user_835@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 17538,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: rtwGnxjHZWUy!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 17550,
+            "kategori": "IP Adresi",
+            "orjinal": "204.204.1.1",
+            "maskeli": "204.204.*.*"
+        },
+        {
+            "satir": 17599,
+            "kategori": "E-posta",
+            "orjinal": "user_145@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 17658,
+            "kategori": "IP Adresi",
+            "orjinal": "196.73.1.1",
+            "maskeli": "196.73.*.*"
+        },
+        {
+            "satir": 17678,
+            "kategori": "E-posta",
+            "orjinal": "user_310@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 17749,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: UzhkcFsMwh9radelx0sJAjwp31uQo7aA",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 17820,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: erVxw7KZSmHgs4tmNkMkcRiTPB5OeojJ",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 17872,
+            "kategori": "IP Adresi",
+            "orjinal": "229.119.1.1",
+            "maskeli": "229.119.*.*"
+        },
+        {
+            "satir": 17910,
+            "kategori": "IP Adresi",
+            "orjinal": "91.118.1.1",
+            "maskeli": "91.118.*.*"
+        },
+        {
+            "satir": 17978,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: Jqlerj6HsD6a!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 17982,
+            "kategori": "E-posta",
+            "orjinal": "user_532@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 18003,
+            "kategori": "IP Adresi",
+            "orjinal": "131.47.1.1",
+            "maskeli": "131.47.*.*"
+        },
+        {
+            "satir": 18092,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: RK6ygjmlTza3bFpfFrXDxf8aTsSmJ3Cc",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 18102,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: jrED2O9sMzK2SsaobBa94ego0X7uPP72",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 18165,
+            "kategori": "IP Adresi",
+            "orjinal": "194.245.1.1",
+            "maskeli": "194.245.*.*"
+        },
+        {
+            "satir": 18229,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: Qz4UM9FssWCJwpKGzE2t2eZjn7ZpmtoM",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 18234,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: cPd3R7NRRReZ!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 18264,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: zf2bLo1mKl6t5YCEyYu0C9wcLLHJLOIu",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 18301,
+            "kategori": "E-posta",
+            "orjinal": "user_988@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 18440,
+            "kategori": "E-posta",
+            "orjinal": "user_523@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 18471,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: zVxViYaP0uxQ!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 18551,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: ThQ5LFcQtBgq!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 18556,
+            "kategori": "E-posta",
+            "orjinal": "user_807@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 18595,
+            "kategori": "IP Adresi",
+            "orjinal": "132.80.1.1",
+            "maskeli": "132.80.*.*"
+        },
+        {
+            "satir": 18638,
+            "kategori": "IP Adresi",
+            "orjinal": "166.166.1.1",
+            "maskeli": "166.166.*.*"
+        },
+        {
+            "satir": 18653,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: W2bXYBHs2hie!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 18675,
+            "kategori": "E-posta",
+            "orjinal": "user_800@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 18685,
+            "kategori": "IP Adresi",
+            "orjinal": "129.226.1.1",
+            "maskeli": "129.226.*.*"
+        },
+        {
+            "satir": 18711,
+            "kategori": "IP Adresi",
+            "orjinal": "59.114.1.1",
+            "maskeli": "59.114.*.*"
+        },
+        {
+            "satir": 18725,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: nn7tjnkjjutvLaBFbqUNQixbvEnQmcix",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 18845,
+            "kategori": "IP Adresi",
+            "orjinal": "152.112.1.1",
+            "maskeli": "152.112.*.*"
+        },
+        {
+            "satir": 18849,
+            "kategori": "IP Adresi",
+            "orjinal": "23.4.1.1",
+            "maskeli": "23.4.*.*"
+        },
+        {
+            "satir": 19026,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: hmAOevLXwC4Q!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19047,
+            "kategori": "IP Adresi",
+            "orjinal": "84.123.1.1",
+            "maskeli": "84.123.*.*"
+        },
+        {
+            "satir": 19093,
+            "kategori": "IP Adresi",
+            "orjinal": "38.88.1.1",
+            "maskeli": "38.88.*.*"
+        },
+        {
+            "satir": 19115,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: ZxiD2N0peGlO!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19135,
+            "kategori": "IP Adresi",
+            "orjinal": "37.207.1.1",
+            "maskeli": "37.207.*.*"
+        },
+        {
+            "satir": 19166,
+            "kategori": "IP Adresi",
+            "orjinal": "114.122.1.1",
+            "maskeli": "114.122.*.*"
+        },
+        {
+            "satir": 19189,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: C5NpWx47qFy4!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19260,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: VWzGawIbdvMY!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19280,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: zlfopqtWVJE2!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19355,
+            "kategori": "E-posta",
+            "orjinal": "user_735@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 19392,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "token: L65gOxztDn8MrBpm6ttmXyUenMvepnH7",
+            "maskeli": "toke****"
+        },
+        {
+            "satir": 19487,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: OjOCn12kN9DT!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19586,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: A1P3mugGTEZp!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19661,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: USLnFRDuhJqN!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19684,
+            "kategori": "IP Adresi",
+            "orjinal": "26.183.1.1",
+            "maskeli": "26.183.*.*"
+        },
+        {
+            "satir": 19686,
+            "kategori": "Sifre_Ipucu",
+            "orjinal": "password: OJOpffOT3BEf!",
+            "maskeli": "pass****"
+        },
+        {
+            "satir": 19705,
+            "kategori": "IP Adresi",
+            "orjinal": "245.131.1.1",
+            "maskeli": "245.131.*.*"
+        },
+        {
+            "satir": 19863,
+            "kategori": "E-posta",
+            "orjinal": "user_720@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        },
+        {
+            "satir": 19987,
+            "kategori": "E-posta",
+            "orjinal": "user_137@kurumsal-sirket.com",
+            "maskeli": "u****@kurumsal-sirket.com"
+        }
+    ]
+}
