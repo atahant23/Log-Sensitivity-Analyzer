@@ -80,6 +80,6 @@ pip install -r requirements.txt
 ⚠️ Yasal Uyarı
 Dikkat: Bu yazılım yalnızca eğitim ve izinli güvenlik testleri amacıyla geliştirilmiştir. Sahibi olmadığınız sistemlerde kullanılması yasa dışıdır. Geliştirici, bu aracın kötü niyetli kullanımından doğacak sonuçlardan sorumlu tutulamaz.
 
-<p align="center">Hazırlayan<b>Atahan Turna</b>
+<p align="center"><b>Atahan Turna</b>
 
 Öğrenci Numarası: 2420191030 </p>
