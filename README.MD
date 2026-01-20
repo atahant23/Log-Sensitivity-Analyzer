@@ -74,7 +74,7 @@ cd LogSensitivityAnalyzer
 # Gerekli kütüphaneleri yükleyin
 pip install -r requirements.txt
 
----
+```
 
 
 ⚠️ Yasal Uyarı
