@@ -73,7 +73,8 @@ cd LogSensitivityAnalyzer
 
 # Gerekli kütüphaneleri yükleyin
 pip install -r requirements.txt
-'''
+
+________________________________________________________________________
 
 ⚠️ Yasal Uyarı
 Dikkat: Bu yazılım yalnızca eğitim ve izinli güvenlik testleri amacıyla geliştirilmiştir. Sahibi olmadığınız sistemlerde kullanılması yasa dışıdır. Geliştirici, bu aracın kötü niyetli kullanımından doğacak sonuçlardan sorumlu tutulamaz.
